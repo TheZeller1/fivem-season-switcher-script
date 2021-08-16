@@ -18,3 +18,5 @@ Type /season in chat and the season (summer or winter)
 #### Available seasons at the moment:
 - ###### summer
 - ###### winter
+
+## YOU CAN TRANSLATE AND SET THE DEFAULT SEASON IN config.lua
