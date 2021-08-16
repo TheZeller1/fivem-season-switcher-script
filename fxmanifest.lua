@@ -5,4 +5,6 @@ author 'The__Zeller'
 description 'Script that allows you to change between Summer and Christmas'
 version '1.0.0'
 
-client_script 'client.lua'
+client_script 'client/client.lua'
+
+shared_script 'config.lua'
